@@ -1,0 +1,4 @@
+(P,1)	ADD	AREG,	(P,2)	
+ADD	AREG,	(P,3)	
+ADD	AREG,	(P,4)	
+MEND
